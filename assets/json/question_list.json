@@ -1,0 +1,348 @@
+{
+  "questions_and_answers": [
+    {
+      "question": "Q1. Have you been previously married?",
+      "input_type": "singleSelection",
+      "answer_options": [
+        "Yes",
+        "No"
+      ],
+      "is_required": true
+    },
+    {
+      "question": "Q2. what citizenship(s), permanent residency, visa(s) do you have? Please specify which of each you have and how long you’ve lived where.",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q3. what languages can you speak and are fluent in?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q4. Your education, job/career, income, where you work?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q5. Your yearly Income?",
+      "answer_options": [
+        "$50,000 USD and under",
+        "$50,000 USD to $75,000 USD",
+        "$75,000 USD to $100,000 USD",
+        "$100,000 USD to $150,000 USD",
+        "$150,000 USD to $250,000 USD",
+        "$250,000 USD and over"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q6. Your assets?",
+      "answer_options": [
+        "Own Stocks/Investments",
+        "Own house",
+        "Own Investment Houses",
+        "Own company",
+        "Wealthy family",
+        "Not Yet",
+        "Other"
+      ],
+      "input_type": "multiSelection",
+      "is_required": true
+    },
+    {
+      "question": "Q7. Please tick all diets you're okay with your partner having?",
+      "answer_options": [
+        "Eats everything",
+        "prefers healthy food",
+        "vegetarian",
+        "vegan",
+        "dietary restrictions",
+        "Other"
+      ],
+      "input_type": "multiSelection",
+      "is_required": true
+    },
+    {
+      "question": "Q8. Your height?",
+      "answer_options": [
+        "Under 150 cm",
+        "150 - 159 cm",
+        "160 - 169 cm",
+        "170 - 179 cm",
+        "180 - 189 cm",
+        "190 cm and above"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q9. Your strengths in general and your strengths in a relationship?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q10. Your weaknesses in general and your weaknesses you're working on in a relationship?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q11. How do you envision the perfect relationship in the next 1 year, 3 years, 5 years?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q12. how many kids do you ideally want? how many kids are you open to? if you have any feelings on the following please mention: ivf, surrogacy, sperm donation, adoption, fertility issues, already having kids, not sure if wanting kids, or not wanting kids.",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q13. What form of communication do you prefer? Text / Voice Messages / Calls / Video Calls / In person. And at what frequency do you prefer? Please explain your bandwidth",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q14. Would you still marry your partner if their parents said no to you or your parents said no to your partner?",
+      "input_type": "singleSelection",
+      "answer_options": [
+        "Yes",
+        "No"
+      ],
+      "is_required": true
+    },
+    {
+      "question": "Q15. In what situations would you get a divorce?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q16. What do loyalty and trust mean to you?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q17. How growth-oriented to change are you?",
+      "input_type": "dropdown",
+      "answer_options": [
+        "1 - Not at all comfortable",
+        "2 - Slightly uncomfortable",
+        "3 - Neutral",
+        "4 - Comfortable with some change",
+        "5 - Very comfortable with change"
+      ],
+      "is_required": true
+    },
+    {
+      "question": "Q18. What are examples of things that your partner would do that would make you feel loved? Or you would notice as being kind/thoughtful? What do you define as quality time with your partner?",
+      "input_type": "text",
+      "is_required": true
+    },
+    {
+      "question": "Q19. How affectionate do you want your partner to be in public/private?",
+      "input_type": "multiSelection",
+      "answer_options": [
+        "low affection public",
+        "medium affection public",
+        "high affection public",
+        "low affection private",
+        "medium affection private",
+        "high affection private"
+      ],
+      "is_required": true
+    },
+    {
+      "question": "Q20. Libido levels can be different in marriage. On average the frequency of sex you think you'd appreciate from your partner",
+      "answer_options": [
+        "couple times a day",
+        "once a day",
+        "once every other day",
+        "couple times a week",
+        "once a week",
+        "once a fortnight",
+        "once a month",
+        "once every few months",
+        "twice a year",
+        "less frequent"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q21. How do you feel about pornography and your partner?",
+      "answer_options": [
+        "No pornography, turn to your partner or self love",
+        "Okay with it, with boundary rules",
+        " Okay with it",
+        "Not sure"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q22. Your commitment readiness for engagement and marriage with the right person",
+      "answer_options": [
+        "less than 1 year",
+        "1 year",
+        "2 year",
+        "3 year",
+        "4 year",
+        "5 year",
+        "5+ years"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q23. When does your timeline for the above question start?",
+      "answer_options": [
+        "As soon as we start texting",
+        "quickly move to phone/video-calls and in person asap",
+        "After When we start talking on the phone/video-calls consistently ",
+        "Starts only when they first meet in person asap",
+        "Other…"
+      ],
+      "input_type": "dropdown",
+      "is_required": true
+    },
+    {
+      "question": "Q24. What values are most important to you?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q25. Your fitness level and how much it matters to you in yourself and your partner?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q26. Your dressing style?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q27. What if your partner has been to jail?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q28. What if your partner does or doesn't drink alcohol, smoke, weed, drugs?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q29. What are your feelings about your partner's sexual history? Someone can range from being a virgin/waiting for the right person, to someone who has been with all the people. What do you prefer? How you feel about being friends with ex(s)? How do you feel if they had/have sexually transmitted illness (STIs)?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q30. Please note any passions you have e.g., dancing, music, gaming, cars, movies, tennis etc.",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q31. any preferences you have on how zoroastrian your partner is? e.g., if they had their sedrehpooshi/navjot, if they practice the values/celebrations/pray/wear sedreh koshti, if their parents are zoroastrian, if they chose zoroastrianism and are a convert.",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q32. What does intelligence mean to you? Is it important in your partner?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q33. What does maturity/stability mean to you? Is it important in your partner?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q34. What does spirituality mean to you?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q35. Do you have any strong preferences or opinions on your partner's family background (if so, please specify)?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q36. Are there any fetishes you feel you have to have? Or any fetishes your partner could have that you would say no to?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q37. Tick all energy types you are attracted to",
+      "answer_options": [
+        "girly girl",
+        "tomboy girl",
+        "feminine male",
+        "masculine male",
+        "middle"
+      ],
+      "input_type": "multiSelection",
+      "is_required": false
+    },
+    {
+      "question": "Q38. What are good/bad spending habits you would see in your partner that impresses/alarm you?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q39. How often would you like to travel?",
+      "answer_options": [
+        "every chance I get",
+        "biweekly weekly getaway and 2 big trips a year",
+        "month weekend getaway and 2 big trips a year, few small trips",
+        "2 big trips a year",
+        "couple small trips and 1 big trip a year",
+        "1 big trip a year",
+        "1 small trip a year",
+        "not really into traveling"
+      ],
+      "input_type": "dropdown",
+      "is_required": false
+    },
+    {
+      "question": "Q40. Ideally great physical and mental health is appreciated, are there any physical or mental health conditions you're okay with in your partner?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q41. Do you prefer your partner to be more strong will or harmony?",
+      "answer_options": [
+        "Harmony",
+        "Somewhat Harmony",
+        "Neutral",
+        "Somewhat Strong-willed",
+        "Strong-willed"
+      ],
+      "input_type": "dropdown",
+      "is_required": false
+    },
+    {
+      "question": "Q42. Do you have any political preferences for your partner or strong feelings on particular topics?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q43. If you have any feelings on wanting or not wanting pets, or having pets, or having allergies to pets, please specify here",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q44. If you have any preferences on how to handle cooking, cleaning, if applies caregiving, child raising please specify.",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q45. Any must haves or green flags you appreciate?",
+      "input_type": "text",
+      "is_required": false
+    },
+    {
+      "question": "Q46. Any deal-breakers or red flags that concern you?",
+      "input_type": "text",
+      "is_required": false
+    }
+  ]
+}
